@@ -1,0 +1,11 @@
+.DS_Store
+
+/tmp/sshd_config
+/tmp/sshd-vcs.pid
+/src/.phutil_module_cache
+
+/key/host_dsa_key
+/key/host_dsa_key.pub
+/key/host_rsa_key
+/key/host_rsa_key.pub
+

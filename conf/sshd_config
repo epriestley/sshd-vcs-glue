@@ -1,0 +1,15 @@
+Protocol 2
+Port 2222
+PermitRootLogin no
+AllowAgentForwarding no
+AllowTcpForwarding no
+PrintMotd no
+PrintLastLog no
+PasswordAuthentication no
+
+AuthorizedKeysFile	    none
+AuthorizedKeysFile2	    none
+
+PidFile                 {ROOT}/tmp/sshd-vcs.pid
+AuthorizedKeysScript    {ROOT}/bin/sshd-vcs-auth
+ForceUser               dweller

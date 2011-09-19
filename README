@@ -1,0 +1,4 @@
+These are two scripts which you can use to glue sshd-vcs together with
+Phabricator and thus host repositories.
+
+This is a preliminary, nonfunctional, hacky mess right now.
